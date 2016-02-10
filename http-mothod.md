@@ -1,0 +1,7 @@
+#HTTP Methods
+
+GET
+
+POST
+
+DELETE
