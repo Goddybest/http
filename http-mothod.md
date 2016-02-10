@@ -5,3 +5,5 @@ GET
 POST
 
 DELETE
+
+PUT
